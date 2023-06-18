@@ -1,0 +1,59 @@
+[
+    {
+      "path_to_picture": "AUFImages/1.jpg",
+      "coordinates": {
+        "x": 97,
+        "y": 185
+      },
+      "radius": 200,
+      "text_coordinates": {
+        "x": 213,
+        "y": 19,
+        "w": 188,
+        "h": 164
+      }
+    },
+    {
+      "path_to_picture": "AUFImages/2.jpg",
+      "coordinates": {
+        "x": 259,
+        "y": 169
+      },
+      "radius": 150,
+      "text_coordinates": {
+        "x": 8,
+        "y": 15,
+        "w": 125,
+        "h": 266
+      }
+    },
+    {
+      "path_to_picture": "AUFImages/3.jpg",
+      "coordinates": {
+        "x": 241,
+        "y": 141
+      },
+      "radius": 150,
+      "text_coordinates": {
+        "x": 28,
+        "y": 28,
+        "w": 158,
+        "h": 160
+      }
+    },
+    {
+      "path_to_picture": "AUFImages/4.jpg",
+      "coordinates": {
+        "x": 42,
+        "y": 227
+      },
+      "radius": 150,
+      "text_coordinates": {
+        "x": 212,
+        "y": 35,
+        "w": 159,
+        "h": 237
+      }
+    }
+  ]
+  
